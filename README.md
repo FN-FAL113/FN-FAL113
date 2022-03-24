@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FN-FAL113
 - 👀 I’m interested in Gaming especially on Open World Games like Minecraft and FPS games
 - 🌱 I’m currently learning coding stuffs.
-- ✨ Currently knows Java, PHP, CSS, HTML, Android app development thru Java and C language
+- ✨ Currently knows Java, PHP, CSS, HTML, C and Android app development thru Java
 
 <!---
 FN-FAL113/FN-FAL113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
