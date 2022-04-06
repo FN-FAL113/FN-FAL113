@@ -12,9 +12,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FN-FAL113&show_icons=true&theme=dracula" />
 </a>
 <br>
-<a href="https://github.com/FN-FAL113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FN-FAL113&show_icons=true&theme=dracula&locale=en" />
-</a>
 
 <!---
 FN-FAL113/FN-FAL113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
