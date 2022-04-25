@@ -5,11 +5,11 @@
 
 
 <a href="https://github.com/FN-FAL113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FN-FAL113&layout=compact&theme=gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FN-FAL113&layout=compact&theme=jolly" />
 </a>
 <br>
 <a href="https://github.com/FN-FAL113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FN-FAL113&show_icons=true&theme=gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FN-FAL113&show_icons=true&theme=jolly" />
 </a>
 <br>
 
