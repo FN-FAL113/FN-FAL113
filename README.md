@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning coding stuffs.
 - ✨ Currently knows Java, PHP, CSS, HTML, C and Android app development thru Java
 
-
-<a href="https://github.com/FN-FAL113">
+<br/>
+<p align="center"><a href="https://github.com/FN-FAL113">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FN-FAL113&layout=compact&theme=jolly" />
-</a>
+</a></p>
 <br>
-<a href="https://github.com/FN-FAL113">
+<p align="center"><a href="https://github.com/FN-FAL113">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FN-FAL113&show_icons=true&theme=jolly" />
-</a>
+</a></p>
 <br>
 
 <!---
