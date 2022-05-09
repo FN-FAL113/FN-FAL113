@@ -4,6 +4,7 @@
 - ✨ Currently knows Java, PHP, CSS, HTML, C and Android app development thru Java
 
 <br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FN-FAL113&label=Profile%20views&color=0e75b6&style=flat" alt="FN-FAL113" /> </p>
 <p align="center"><a href="https://github.com/FN-FAL113">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FN-FAL113&layout=compact&theme=jolly" />
 </a></p>
