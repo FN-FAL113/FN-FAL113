@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FN-FAL113
 - 👀 I’m interested in Gaming especially on Open World Games like Minecraft and FPS games
-- 🌱 I’m currently learning coding stuffs.
+- 🌱 I’m currently learning coding stuffs. I like rewriting codes every once in a while
 - ✨ Currently knows Java, Javascript, PHP, CSS, HTML, C, MySQL, GraphQL and Android app development thru Java
 
 <br/>
