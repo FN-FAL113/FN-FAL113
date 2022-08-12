@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FN-FAL113
 - 👀 I’m interested in Gaming especially on Open World Games like Minecraft and FPS games
 - 🌱 I’m currently learning coding stuffs. I like rewriting codes every once in a while
-- ✨ Currently knows Java, Javascript, PHP, CSS, HTML, C, MySQL, GraphQL and Android app development thru Java
+- ✨ Currently improving my skills on Java, Javascript, PHP, CSS, HTML, C, MySQL, GraphQL and Android app development (Native Java)
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FN-FAL113&label=Profile%20views&color=0e75b6&style=flat" alt="FN-FAL113" /> </p>
