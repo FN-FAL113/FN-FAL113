@@ -4,14 +4,17 @@
 - ✨ Currently improving my skills on Java, JS, PHP, CSS, HTML, C, MySQL, GraphQL and Android app development (Native Java)
 
 <br/>
+<div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FN-FAL113&label=Profile%20views&color=0e75b6&style=flat" alt="FN-FAL113" /> </p>
 <p align="center"><a href="https://github.com/FN-FAL113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FN-FAL113&layout=compact&theme=jolly" />
-</a></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FN-FAL113&layout=compact&theme=jolly&count_private=true" />
+</a></p></div>
 <br>
+<div align="center">
 <p align="center"><a href="https://github.com/FN-FAL113">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FN-FAL113&show_icons=true&theme=jolly" />
-</a></p>
+
+  ![FN-FAL113's GitHub stats](https://github-readme-stats.vercel.app/api?username=FN-FAL113&show_icons=true&count_private=true&layout=compact&theme=jolly)
+</a></p></div>
 <br>
 
 <!---
