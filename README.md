@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://fnfal113.tech/](https://fnfal113.tech/)
 
-- ⚡ Fun fact **I like to play steam games (with 4k hours above playtime)**
+- ⚡ Fun fact **I like to play dota 2, cs go and open world games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
