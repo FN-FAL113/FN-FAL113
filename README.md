@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fn-fal.vercel.app/api?username=fn-fal113&show_icons=true&theme=dark&locale=en&count_private=true" alt="fn-fal113" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fn-fal113&theme=dark" alt="fn-fal113" /></p>
+
+<p><img align="center" src="https://steam-readme-status.vercel.app/" alt="" /></p>
