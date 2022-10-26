@@ -6,6 +6,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fn-fal113" alt="fn-fal113" /></a> </p>
 
+<p align="center"><img align="center" src=http://steam-readme-status.vercel.app/?steamId=76561198085145110" alt="" /></p>
+
 - 🔭 I’m currently working on **personal and school projects**
 
 - 🌱 I’m currently learning **frameworks and other languages**
@@ -29,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fn-fal.vercel.app/api?username=fn-fal113&show_icons=true&theme=dark&locale=en&count_private=true" alt="fn-fal113" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fn-fal113&theme=dark" alt="fn-fal113" /></p>
-
-<p><img align="center" src=http://steam-readme-status.vercel.app/?steamId=76561198085145110" alt="" /></p>
