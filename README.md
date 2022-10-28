@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fn-fal113" alt="fn-fal113" /></a> </p>
 
-<p align="center"><img align="center" src=http://steam-readme-status.vercel.app/?steamId=76561198085145110" alt="" width="450px" height="150px" /></p>
+<p align="center"><img align="center" src="https://github-readme-steam-status.vercel.app/?steamid=76561198085145110" alt="" width="450px" height="150px" /></p>
 
 - 🔭 I’m currently working on **personal and school projects**
 
