@@ -18,8 +18,6 @@
 
 - 🌱 I’m currently learning **frameworks and other languages**
 
-- 💬 Ask me about **anything (I'll try my best if I'm knowledgeable)**
-
 - 📄 Know about my experiences [https://fnfal113.tech/](https://fnfal113.tech/)
 
 <h3 align="left">Connect with me:</h3>
