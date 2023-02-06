@@ -4,10 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" /> </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fn-fal113" alt="fn-fal113" /></a> 
-</p>
-
 <p align="center">
   <a href="https://github.com/FN-FAL113/github-readme-steam-status" target="_blank">
     <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198085145110" width="450px" height="150px" />
