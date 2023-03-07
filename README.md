@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **frameworks and other languages**
 
-- 📄 My page: [https://fnfal113.tech/](https://fnfal113.tech/)
+- 📄 My page: [https://fn-fal113.pages.dev/](https://fn-fal113.pages.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
