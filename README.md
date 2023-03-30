@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **personal and school projects**
 
-- 🌱 I’m currently learning **frameworks and other languages**
+- 🌱 I’m currently learning **frameworks and langs**
 
 - 📄 My page: [https://fn-fal113.pages.dev/](https://fn-fal113.pages.dev/)
 
