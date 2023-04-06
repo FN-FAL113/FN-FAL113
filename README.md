@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **frameworks and langs**
 
-- 📄 My page: [https://fn-fal113.pages.dev/](https://fn-fal113.pages.dev/)
+- 📄 My page: [Personal Page](https://fnfal.pages.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
