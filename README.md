@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/FN-FAL113/github-readme-steam-status" target="_blank">
-    <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198085145110" width="500px" height="200px" />
+    <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198085145110"/>
   </a>
 </p>
 
