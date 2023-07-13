@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **frameworks and langs**
 
+- **Feel free to browse my repositories, please adhere and respect the license of my repositories including its terms, etc for compliance to open-source development**. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/NkwgDn9n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NkwgDn9n" height="30" width="40" /></a>
