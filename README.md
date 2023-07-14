@@ -1,7 +1,9 @@
 <h2 align="center">Jeff💜</h2>
-<h3 align="center">Junior IT Student</h3>
+<h3 align="center">IT Student</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
+</p>
 
 <p align="center">
   <a href="https://github.com/FN-FAL113/github-readme-steam-status" target="_blank">
@@ -13,11 +15,11 @@
 
 - 🌱 I’m currently learning **frameworks and langs**
 
-- **Feel free to browse my repositories, please adhere and respect the license of my repositories including its terms, etc for compliance to open-source development**. 
+- Feel free to browse my repositories, **respect its license including its terms, etc for compliance to open-source**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/NkwgDn9n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NkwgDn9n" height="30" width="40" /></a>
+  <a href="https://discord.gg/https://discord.gg/NkwgDn9n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NkwgDn9n" height="30" width="40" /></a>
 </p>
 
 
