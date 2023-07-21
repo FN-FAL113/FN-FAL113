@@ -11,17 +11,11 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **personal and school projects**
+- I’m currently working on **personal and school projects**
 
-- 🌱 I’m currently learning **frameworks and langs**
+- I’m currently learning **frameworks and langs**
 
 - Feel free to browse my repositories, **respect its license including its terms, etc for compliance to open-source**. 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/https://discord.gg/NkwgDn9n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NkwgDn9n" height="30" width="40" /></a>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
