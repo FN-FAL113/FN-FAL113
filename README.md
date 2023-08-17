@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/FN-FAL113/github-readme-steam-status" target="_blank">
-    <img src="https://github-readme-steam-status-9w1aiuarz-fn-fal113.vercel.app/?steamid=76561198085145110"/>
+    <img decode="async" src="https://github-readme-steam-status-fbqv5bd1f-fn-fal113.vercel.app/status/?steamid=76561198085145110"/>
   </a>
 </p>
 
