@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<div align="center">
+![svg](https://github-readme-steam-status-9eey8o3cr-fn-fal113.vercel.app/status/?steamid=76561198085145110)
+</div>
+
 - I’m currently working on **personal and school projects**
 
 - I’m currently learning **frameworks and langs**
