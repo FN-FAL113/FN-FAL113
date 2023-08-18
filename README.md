@@ -11,15 +11,17 @@
   </a>
 </p>
 
-<div align="center">
-![svg](https://github-readme-steam-status-9eey8o3cr-fn-fal113.vercel.app/status/?steamid=76561198085145110)
-</div>
-
 - I’m currently working on **personal and school projects**
 
 - I’m currently learning **frameworks and langs**
 
-- Feel free to browse my repositories, **respect its license including its terms, etc for compliance to open-source**. 
+- Feel free to browse my repositories, **respect its license including its terms, etc for compliance to open-source**.
+
+<p align="center">
+  <a href="https://github.com/FN-FAL113/github-readme-steam-status" target="_blank">
+     <img src="https://github-readme-steam-status-h9pzsa2u2-fn-fal113.vercel.app/status/?steamid=76561198085145110"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
