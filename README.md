@@ -1,5 +1,6 @@
-<h2 align="center">Jeff💜</h2>
-<h3 align="center">IT Student</h3>
+<h2 align="center">IT Student</h2>
+<h4 align="center">Welcome to my profile!</h4>
+<h5 align="center">Hope y'all have a great day!</h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
