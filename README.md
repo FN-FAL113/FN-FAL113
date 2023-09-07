@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- I’m currently working on **personal and school projects**
+- I’m currently working on **capstone project**
 
 - I’m currently learning **frameworks and langs**
 
