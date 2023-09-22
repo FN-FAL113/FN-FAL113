@@ -11,7 +11,7 @@
      <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198085145110"/>
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=FN-FAL113"/>
+  <img src="https://github-readme-stats-fn-fal113.vercel.app/api?username=FN-FAL113&include_all_commits=true&number_format=long"/>
 </p>
 
 - I’m currently working on **capstone project**
