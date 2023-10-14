@@ -1,5 +1,5 @@
 <h2 align="center">IT Student</h2>
-<h4 align="center">Welcome to my profile!</h4>
+<h3 align="center">Welcome to my gh profile!</h3>
 <h5 align="center">Hope y'all have a great day!</h5>
 
 <p align="center">
