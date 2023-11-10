@@ -1,4 +1,4 @@
-<h2 align="center">IT Student (Gradwaiting)</h2>
+<h2 align="center">IT Student (Senior Year)</h2>
 <h3 align="center">Welcome to my Github profile!</h3>
 
 <p align="center">
