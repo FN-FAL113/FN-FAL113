@@ -1,6 +1,5 @@
-<h2 align="center">IT Student</h2>
-<h3 align="center">Welcome to my gh profile!</h3>
-<h5 align="center">Hope y'all have a great day!</h5>
+<h2 align="center">IT Student (Gradwaiting)</h2>
+<h3 align="center">Welcome to my Github profile!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
@@ -14,7 +13,7 @@
   <img src="https://github-readme-stats-fn-fal113.vercel.app/api?username=FN-FAL113&include_all_commits=true&number_format=long"/>
 </p>
 
-- I’m currently working on **capstone project**
+- I’m currently working on **Capstone Project**
 
 - I’m currently learning **frameworks and langs**
 
