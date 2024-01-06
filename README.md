@@ -10,8 +10,6 @@
   </a>
 </p>
 
-- I’m currently working on my undergraduate **Capstone Project**
-
 - I’m currently learning **frameworks and langs**
 
 - Feel free to browse my repositories, **please respect repository license for compliance to open-source**.
@@ -22,5 +20,5 @@
 </p>
 </div>
 <div align="center">
-   <img src="https://camo.githubusercontent.com/2dad30715e20259bf648f15a9789a600a16c7fd69044856fe280b73f4ece0290/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246747365342e6d6d2e62696e672e6e6574253246746825334669642533444f49502e69314a37786f433937546778737879584f68655535774861486125323670696425334441706926663d31266970743d623465643165383365313639396130323138626335623465346261313238363566326638616138376335333935376231623732623463356365626437656332662669706f3d696d61676573"/>
+   <img width="50%" src="https://scontent.fmnl7-2.fna.fbcdn.net/v/t1.6435-9/70516356_393804814633640_6718728284433022976_n.jpg?stp=dst-jpg_p843x403&_nc_cat=111&ccb=1-7&_nc_sid=7f8c78&_nc_eui2=AeEkOpmQ9iGfi8HAX8-ZXBf1yZel6zijqxjJl6XrOKOrGCSnOK5Nz1hce08bwsDFT0XTw6rZQCy_z67_6_N_glNM&_nc_ohc=MMygHhS5HigAX9fXBG1&_nc_ht=scontent.fmnl7-2.fna&oh=00_AfBuf7ZRvZgwYqxzPyZd1F9NKH8YFJmsEmR0SLd2RjLk0A&oe=65C09EC1"/>
 </div>
