@@ -12,7 +12,7 @@
 
 - I’m currently learning **frameworks and langs**
 
-- Feel free to browse my repositories, **please respect repository license for compliance to open-source**.
+- Open to work as web and app developer mainly focusing on backend
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
