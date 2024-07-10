@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- I’m currently learning **frameworks and langs**
+- I’m currently learning **frameworks and langs**, also went outside boundaries by doing some first person animation using blender
 
 - Open to work as web and app developer mainly focusing on backend
 
