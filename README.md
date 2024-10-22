@@ -10,9 +10,9 @@
   </a>
 </p>
 
-- I’m currently learning **frameworks and langs**, also went outside boundaries by doing some first person animation using blender
+- 🎯 I’m currently learning programming concepts, does first person animation using blender as a hobby (inactive).
 
-- Open to work as web and app developer mainly focusing on backend
+- 🌏 [Personal Site](https://fnfal.pages.dev/)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
