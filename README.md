@@ -10,7 +10,9 @@
   </a>
 </p>
 
-- 🎯 I’m currently learning programming concepts, does first person animation using blender as a hobby (inactive).
+- 🎯 I’m currently learning programming concepts and frameworks then applying it through boilerplate personal projects
+
+- 💼 Employed yet always seeking better opportunities for career growth, send me an email: orbetajeff@gmail.com
 
 - 🌏 [Personal Site](https://fnfal.pages.dev/)
 
