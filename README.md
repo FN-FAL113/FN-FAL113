@@ -4,17 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/FN-FAL113/github-readme-steam-card" target="_blank">
-     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198085145110&animated_avatar=true"/>
-  </a>
-</p>
-
 - 🎯 I’m currently learning programming concepts and frameworks
 
 - 💼 Always seeking for better opportunities, lets connect on LinkedIn :)
 
 - 🌏 [Personal Site](https://fnfal.pages.dev/)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -22,9 +18,9 @@
 </p>
 </div>
 
-
-
-<h3 align="left">GitHub Stats:</h3>
+<a href="https://github.com/FN-FAL113/github-readme-steam-card" target="_blank">
+   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198085145110&animated_avatar=true"/>
+</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=FN-FAL113&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FN-FAL113&theme=dark&hide_border=true)<br/>
