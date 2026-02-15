@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
 </p>
 
-- 🎯 I’m currently learning programming concepts and frameworks
+- 🎯 I’m currently learning AI-assisted development, running models locally with agentic code environments
 
 - 💼 Always seeking for better opportunities, lets connect on LinkedIn :)
 
