@@ -18,10 +18,6 @@
 </p>
 </div>
 
-<a href="https://github.com/FN-FAL113/github-readme-steam-card" target="_blank">
-   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198085145110&animated_avatar=true"/>
-</a>
-
 ![](https://github-readme-stats.vercel.app/api?username=FN-FAL113&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FN-FAL113&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FN-FAL113&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
