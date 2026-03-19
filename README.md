@@ -6,11 +6,9 @@
 
 - 🎯 I’m currently learning AI-assisted development, running models locally with agentic code environments
 
-- 💼 Always seeking for better opportunities, lets connect on LinkedIn :)
+- 💼 Seeking for better opportunities, lets connect on LinkedIn
 
 - 🌏 [Personal Site](https://fnfal.pages.dev/)
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -20,4 +18,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=FN-FAL113&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FN-FAL113&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FN-FAL113&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
