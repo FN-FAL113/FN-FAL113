@@ -6,7 +6,7 @@
 
 - 🎯 Doing AI-assisted development, running models locally with agentic code environments
 
-- 💼 Open tech-related work, please feel free to contact me by creating an issue ticket to any of my repos 
+- 💼 Open for tech-related work, please feel free to contact me by creating an issue ticket to any of my repos 
 
 - ℹ️ For privacy, I do not expose my email due to phishing attempts. 
 
