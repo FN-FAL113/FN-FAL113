@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
 </p>
 
-- 🎯 Doing learning AI-assisted development, running models locally with agentic code environments
+- 🎯 Doing AI-assisted development, running models locally with agentic code environments
 
-- 💼 Seeking for better opportunities as developer or any tech-related, please feel free to contact me by creating an issue ticket to any of my repos 
+- 💼 Open tech-related work, please feel free to contact me by creating an issue ticket to any of my repos 
 
 - ℹ️ For privacy, I do not expose my email due to phishing attempts. 
 
