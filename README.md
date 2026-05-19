@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
 </p>
 
-- 🎯 I’m currently learning AI-assisted development, running models locally with agentic code environments
+- 🎯 Doing learning AI-assisted development, running models locally with agentic code environments
 
-- 💼 Seeking for better opportunities, lets connect on LinkedIn
+- 💼 Seeking for better opportunities as developer or any tech-related, please feel free to contact me by creating an issue ticket to any of my repos (for privacy, I do not expose my email due to phishing attempts). 
 
 - 🌏 [Personal Site](https://fnfal.pages.dev/)
 
