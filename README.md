@@ -6,7 +6,9 @@
 
 - 🎯 Doing learning AI-assisted development, running models locally with agentic code environments
 
-- 💼 Seeking for better opportunities as developer or any tech-related, please feel free to contact me by creating an issue ticket to any of my repos (for privacy, I do not expose my email due to phishing attempts). 
+- 💼 Seeking for better opportunities as developer or any tech-related, please feel free to contact me by creating an issue ticket to any of my repos 
+
+- ℹ️ For privacy, I do not expose my email due to phishing attempts. 
 
 - 🌏 [Personal Site](https://fnfal.pages.dev/)
 
