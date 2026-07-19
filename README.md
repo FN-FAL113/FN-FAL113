@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=fn-fal113&label=Profile%20views&color=7748f9&style=flat-square" alt="fn-fal113" />
 </p>
 
-- 🎯 Exploring AI-assisted development, running models locally through agentic environments and utilizing cloud models for rapid development
+- 🎯 Exploring AI-assisted development, running models locally through agentic environments and cloud models for rapid development
 
 - 💼 Open for tech-related work 
 
